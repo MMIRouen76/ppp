@@ -357,7 +357,7 @@ function chgtmode(){
     bordure.style.color = "#F0FFF0";
     metieer.style.color = "#F0FFF0";
 
-    img3.style.backgroundImage = "url('style/images/img31.png')";
+    img3.style.backgroundImage = "url('img31.png')";
 
     numun.style.borderColor = "#F0FFF0";
     numdeux.style.borderColor = "#F0FFF0";
@@ -428,7 +428,7 @@ function chgtmode(){
     bordure.style.color = "#333";
     metieer.style.color = "#333";
 
-    img3.style.backgroundImage = "url('style/images/img3.png')";
+    img3.style.backgroundImage = "url('img3.png')";
 
     numun.style.borderColor = "#333";
     numdeux.style.borderColor = "#333";
