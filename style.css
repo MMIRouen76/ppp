@@ -174,7 +174,7 @@ a:hover, a:focus{
   margin-top:9vw;
 }
 #cyan{
-  background-image:url('images/1.jpg');
+  background-image:url('1.jpg');
   background-size:cover;
   border:1vw solid #333333; 
   position:absolute;
@@ -185,7 +185,7 @@ a:hover, a:focus{
   border-radius:20px;
 }
 #cyan2{
-  background-image:url('images/2.png');
+  background-image:url('2.png');
   background-size:cover;
   border:1vw solid #333333; 
   position:absolute;
@@ -426,17 +426,17 @@ a:hover, a:focus{
   bottom:2vw;
 }*/
 #img1{
-  background-image:url('images/img2.png');
+  background-image:url('img2.png');
   border:1vw solid #ffa500;
   clip-path: polygon(0% 0%, 50% 50%, 50% 100%, 0% 100%);
 }
 #img2{
-  background-image:url('images/img1.png');
+  background-image:url('img1.png');
   border:1vw solid #ffa500;
   clip-path: polygon(100% 0%, 50% 50%, 50% 100%, 100% 100%);
 }
 #img3{
-  background-image:url('images/img3.png');
+  background-image:url('img3.png');
   border:1vw solid #ffa500;
   clip-path: polygon(0% 0%, 50% 50%, 100% 0%);
 }
@@ -451,7 +451,7 @@ a:hover, a:focus{
   border-radius:20px;
 }
 #met{
-  background-image:url('images/met.png');
+  background-image:url('met.png');
 }
 .un{
   padding-top:2vw;
@@ -475,7 +475,7 @@ a:hover, a:focus{
 }
 
 #entre{
-  background-image:url('images/3.png');
+  background-image:url('3.png');
 }
 .text{
   padding-left:1vw;
@@ -524,11 +524,11 @@ a:hover, a:focus{
   background-color: hsla(200,40%,30%,.4);
   clip-path: polygon(0 0, 100% 0%, 50% 50%, 0 100%);
   background-image:   
-    url('images/pixels.png'), 
-    url('images/fond.png'),
-    url('images/cloud.png'),
-    url('images/mountain.png'),
-    url('images/cloud2.png');
+    url('pixels.png'), 
+    url('fond.png'),
+    url('cloud.png'),
+    url('mountain.png'),
+    url('cloud2.png');
   background-repeat: repeat-x;
   background-position: 
     0 20%,
@@ -564,11 +564,11 @@ a:hover, a:focus{
   
   clip-path: polygon(100% 0, 100% 0%, 100% 100%, 0 100%);
   background-image:   
-    url('images/pixels.png'), 
-    url('images/sapin.png'),
-    url('images/cloud.png'),
-    url('images/mon.jpg'),
-    url('images/cloud2.png');
+    url('pixels.png'), 
+    url('sapin.png'),
+    url('cloud.png'),
+    url('mon.jpg'),
+    url('cloud2.png');
   background-repeat: repeat-x;
   background-position: 
     0 20%,
