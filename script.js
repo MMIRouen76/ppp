@@ -138,11 +138,6 @@ function trait1(){
 }
 
 function scroll2(){
-    if (document.documentElement.scrollTop < 6800){
-      retour.style.position = "fixed";
-      retour.style.bottom = "0.5vw";
-      retour.style.marginTop = "0vw";
-    }
     if (document.documentElement.scrollTop > 220) {
       console.log(document.documentElement.scrollTop);
     }
